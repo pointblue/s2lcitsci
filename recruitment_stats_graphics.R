@@ -3,6 +3,7 @@
 ## Generates bar graph summarizing volunteers by recruitment type using ggplot
 ## Generates bar graph summarizing number of bird call validations by recruitment type using ggplot
 ## Arranges bar graphs side-by-side using ggarrange
+## Saves graphic to file
 
 library(ggplot2)
 library(ggpubr)
