@@ -1,7 +1,7 @@
 # Soundscapes to Landscapes
 ### Citizen Science Methods Paper
 
-This repository contains the raw code referenced in the manuscript titled, "The Soundscapes to Landscapes Project: Development of a Bioacoustics-based Bird Diversity Monitoring Workflow that Involves Citizen Scientists." It also contains the code used to generate graphics for the manuscript.
+This repository contains the raw code referenced in the manuscript titled, "The Soundscapes to Landscapes Project: Development of a Bioacoustics-based Bird Diversity Monitoring Workflow that Involves Citizen Scientists." It also contains the code and data used to generate graphics for the manuscript.
 
 ## soundscapeIndicesOrdination.R
 
