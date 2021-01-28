@@ -1,3 +1,9 @@
+## author: Rose L Snyder
+## This code reads a csv with citizen scientist recruitment data
+## Generates bar graph summarizing volunteers by recruitment type using ggplot
+## Generates bar graph summarizing number of bird call validations by recruitment type using ggplot
+## Arranges bar graphs side-by-side using ggarrange
+
 library(ggplot2)
 library(ggpubr)
 
