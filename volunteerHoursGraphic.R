@@ -1,3 +1,8 @@
+## Author: Rose L Snyder
+## This code loads in a csv with citizen science hours data
+## Creates bar chart of volunteer hours by task/type of work
+## Saves graphic to file
+
 library(ggplot2)
 library(dplyr)
 
@@ -22,7 +27,7 @@ vol_hours_graph <- ggplot(cshours) +
 
 
 #save volunteer hours bar chart
-png(filename="C:/R/temp", 
+png(filename="C:/R/temp/filename.png", 
     units="in", width=6.5, height=3, res=600)
 print(vol_hours_graph)
 dev.off()
